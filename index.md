@@ -1,15 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Ding guoming's Pages
 
-You can use the [editor on GitHub](https://github.com/guomingding/guomingding.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+This is Guoming Ding, he received his B.S. degree in Mechanical Engineering from Xi’an Jiaotong University in 2020. He is currently pursuing the master's degree with the State Key Lab of CAD&CG, Zhejiang University. His research interests mainly include the visualization and causal analysis.
+### Experience
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
