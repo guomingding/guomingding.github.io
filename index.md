@@ -11,4 +11,4 @@ This is Guoming Ding, he received his B.S. degree in Mechanical Engineering from
 
 ## Blog: [CSDN](https://blog.csdn.net/qq_37613112)
 
-## Contact: guomingding@outlook.com
+## Contact: `guomingding@outlook.com`
