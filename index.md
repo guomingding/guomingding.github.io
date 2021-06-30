@@ -1,4 +1,5 @@
-![](../icon.jpg)
+<img src='./icon.jpg' width='50%'/>
+
 ## Biography
 
 This is Guoming Ding, he received his B.S. degree in Mechanical Engineering from Xi’an Jiaotong University in 2020. He is currently pursuing the master's degree with the State Key Lab of CAD&CG, Zhejiang University. His research interests mainly include the visualization and causal analysis.
