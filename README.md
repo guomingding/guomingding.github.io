@@ -1,2 +1,0 @@
-# guomingding.github.io
-hehe
