@@ -7,4 +7,4 @@ This is Guoming Ding, he received his B.S. degree in Mechanical Engineering from
 ### Xi’an Jiaotong University 2016.8-2020.6
 #### Mechanical Engineering 
 
-## Blog ### [CSDN](https://blog.csdn.net/qq_37613112)
+## Blog: [CSDN](https://blog.csdn.net/qq_37613112)
