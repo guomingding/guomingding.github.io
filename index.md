@@ -1,4 +1,4 @@
-<img src='./icon.jpg' width='50%'/>
+<img src='./icon.jpg' width='50%' alt='wargame red dragon'/>
 
 ## Biography
 
